@@ -454,6 +454,10 @@ Header Section
 
 }
 
+.banner-content span {
+  display: block;
+}
+
 .banner-content>.btn {
   --bs-btn-padding-x: 24px;
   --bs-btn-padding-y: 20px;
