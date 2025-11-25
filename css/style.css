@@ -831,6 +831,10 @@ Together section
   margin: 0 auto;
 }
 
+.ftr-logo>a {
+  width: 100%;
+}
+
 .ftr-logo>img {
   width: 100%;
   height: 100%;
@@ -1227,6 +1231,8 @@ Responsive Section
   .banner-content>figure {
     padding: 6.5px 7.5px 0;
   }
+
+
 
   /* Footer Section */
   .ftr-sec {
